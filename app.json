@@ -1,0 +1,31 @@
+{
+  "expo": {
+
+    "privacy": "public",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.7.1",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/eshop-logo.png",
+     
+      "backgroundColor": "rgb(176,196,222)",
+      "width": 100,
+      "height": 100
+
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "description": "Acheter en ligne"
+  }
+}
